@@ -1,0 +1,16 @@
+//META{"name":"Girl","description":"Thème By PrincessAsuna - v0.1","author":"PrincessAsuna","version":"Mise à jour auto"}*//
+@import url("https://codedotspectra.github.io/themes/neutron/importCSS/xcore.css");
+@import url('https://codedotspectra.github.io/themes/mini-themes/compactChannelsList.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/compactMemberList.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/seeThroughBackground.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/statusRounded.css');
+:root {
+--bgImage: url('https://images7.alphacoders.com/937/937547.png');
+--HomeButtonImg: url('https://images7.alphacoders.com/937/937547.png');
+--brightness: 0.1;
+--PrimaryColor01: #e203b6;
+--PrimaryColorRGBA: rgba(226,3,182,.15);
+--RoleTitleColor: #9d6ae3;
+--ChannelsSelectedTextColor: #fa1d54;
+--NTBackgroundColor01: #ffaeef;
+}
